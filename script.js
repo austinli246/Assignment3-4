@@ -37,6 +37,7 @@ const ulel = document.querySelector('ul')
 ulel.append(newel)
 console.log(ulel)
 
+
 //12)Loop over all of the lis inside the ol tag and give them a background color of "green".
 
 const ollis = document.querySelectorAll('ol li') 
